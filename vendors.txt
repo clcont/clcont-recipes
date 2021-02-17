@@ -1,2 +1,0 @@
-Nombre, Apellido y numero de telefono
-Pedro, Perez | 55566778
